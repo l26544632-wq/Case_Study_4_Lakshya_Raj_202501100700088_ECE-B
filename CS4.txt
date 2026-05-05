@@ -1,0 +1,7 @@
+INFO User login successful
+WARNING Low disk space
+ERROR File not found
+INFO Payment completed
+WARNING Battery low
+ERROR Network issue
+INFO Logout successful

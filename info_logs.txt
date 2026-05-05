@@ -1,0 +1,3 @@
+INFO User login successful
+INFO Payment completed
+INFO Logout successful
